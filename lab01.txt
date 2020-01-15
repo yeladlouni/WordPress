@@ -1,0 +1,7 @@
+
+* Créer un plugin nommé dashboard
+* Ajouter un fichier php contenant le code
+php et js en utilisant d3.js par exemple
+* Afficher un histogramme afin d'Afficher
+le nombre de posts par catégorie 
+dans l'interface admin
